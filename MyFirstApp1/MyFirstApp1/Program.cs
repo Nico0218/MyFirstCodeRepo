@@ -4,6 +4,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("i nuwe lyn");
 
+            Console.WriteLine();
+
             Stack<string> stack = new Stack<string>();
             stack.Push("Some random value");
 
